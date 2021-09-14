@@ -1,0 +1,22 @@
+This course follows the free code camp on Youtube:  https://www.youtube.com/watch?v=Oe421EPjeBE&t=138
+
+Introduction
+
+The course structure is as follows: 
+
+	Node and Express Fundamentals
+	Build a Complex REST API
+	Build a MERN APP alongside other projects
+
+What you will learn
+
+	Node Fundamentals
+	Express.js
+	MongoDB & Mongoose
+	Applications
+	Deployment
+
+The purpouse of this tutorial is to introduce the watcher too building modern and scalable web applications with node & express.js
+
+To solidify the knowledge we will build new projects
+
